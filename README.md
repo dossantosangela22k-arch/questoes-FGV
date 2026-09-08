@@ -13,7 +13,7 @@ https://sun.eduzz.com/8WPNAYDEOP
 ## 📄 Arquivos
 
 - `index.html` — landing page (botões já apontam para o checkout da Eduzz)
-- `apostila-portugues-fgv-200.html` — conteúdo da apostila (gerar PDF para subir na Eduzz)
+- `apostila-portugues-fgv-200.html` — conteúdo da apostila 
 
 ## ✏️ Como atualizar o link de checkout
 
